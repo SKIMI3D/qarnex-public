@@ -5,24 +5,25 @@ _Qarnex ist eine minimalistische Web-App für einfache Buchhaltung und EÜR – 
 ## Warum Qarnex?
 
 Die meisten Buchhaltungslösungen sind überladen, teuer oder schrecken durch ihre Komplexität ab. Qarnex will das ändern:  
-Einfachheit. Fokus. Kontrolle.
+**Einfachheit. Fokus. Kontrolle.**
 
-## Features (geplant)
+## Geplante Features
 
-- CSV-Import (z. B. ING)
-- Kategorisierung von Einnahmen/Ausgaben
+- CSV-Import (z. B. von ING)
+- Kategorisierung von Einnahmen und Ausgaben
 - PDF-Belege zuordnen
-- Umsatzsteuer-Auswertung
-- EÜR mit Kennziffern
-- Export für ELSTER / WISO Online
+- Umsatzsteuer-Auswertung mit ELSTER-Export
+- EÜR mit Kennziffern für WISO Online
+- Fokus auf Ruhe, Klarheit und gutes Gefühl trotz Steuerthema
 
-## Status
+## Projektstatus
 
 **Projektstart:** April 2025  
-**Version:** Pre-Alpha – nur intern getestet  
-**Öffentliches Repo:** Enthält ausschließlich Branding, Dokumentation und Vision  
-**Code:** Siehe [qarnex (privat)](https://github.com/skimi3d/qarnex)
+**Aktueller Stand:** Pre-Alpha, Entwicklung im geschlossenen Repo  
+**Code:** → [qarnex (privat)](https://github.com/DEIN-USERNAME/qarnex)
+
+Dieses Repository enthält Branding, Dokumentation und Vision von Qarnex.
 
 ## Lizenz
 
-Dieses Repo enthält nur Branding- und Öffentlichkeitsmaterial und ist unter [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) lizenziert.
+Siehe [LICENSE.md](LICENSE.md)
