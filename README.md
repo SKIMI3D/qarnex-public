@@ -20,7 +20,7 @@ Die meisten Buchhaltungslösungen sind überladen, teuer oder schrecken durch ih
 
 **Projektstart:** April 2025  
 **Aktueller Stand:** Pre-Alpha, Entwicklung im geschlossenen Repo  
-**Code:** → [qarnex (privat)](https://github.com/DEIN-USERNAME/qarnex)
+**Code:** → [qarnex (privat)](https://github.com/skimi3d/qarnex)
 
 Dieses Repository enthält Branding, Dokumentation und Vision von Qarnex.
 
